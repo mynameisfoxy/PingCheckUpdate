@@ -1,2 +1,1 @@
-{"application":{"version":"0.0.0","file":"pingCheck.zip"},
-"update":{"version":"0.0.0","file":"Update.zip"}}
+[{"App":{"File":"pingCheck.zip","Vers":"1.0.0.0"},"Upd":{"File":"Update.zip","Vers":"1.0.0.0"}}]
